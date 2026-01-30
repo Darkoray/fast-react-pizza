@@ -1,4 +1,4 @@
-# 🍕 Fast React Pizza Co.
+# 🍕 Fast React Pizza Co. [![wakatime](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/641e4d08-0ee4-4823-a80b-c7bc650d8882.svg)](https://wakatime.com/badge/user/72594c02-0009-4d68-ba8b-6bc52b500d86/project/641e4d08-0ee4-4823-a80b-c7bc650d8882)
 
 A pizza ordering application that allows users to view and order pizzas from a menu. It features a responsive design, cart management, and user authentication for a seamless ordering experience.
 
