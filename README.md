@@ -96,8 +96,6 @@ Core structural components that define the application's layout.
 
 ## 🛠️ Technologies Used
 
-## 🛠️ Technologies Used
-
 - **React 18**– Component-based UI library
 - **Vite** – Fast build tool & dev server
 - **Redux Toolkit**– Global state management
