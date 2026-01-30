@@ -24,7 +24,7 @@ A pizza ordering application that allows users to view and order pizzas from a m
 
 ## 🚀 How to Use
 
-1. **[Go to the website](https://fast-react-pizza-by-darkoray.netlify.app/order/56HP50)**
+1. **[Go to the website](https://fast-react-pizza-by-darkoray.netlify.app/)**
 2. **Enter your name** – This is all that's required to get started.
 3. **Browse the menu** – View available pizzas, which are loaded live from our kitchen.
 4. **Add pizzas to your cart** – Select one or more pizzas and customize your order.
